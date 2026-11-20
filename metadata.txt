@@ -1,6 +1,0 @@
-[general]
-name=Abrir en Google Maps
-description=Reproyecta el centro del mapa a WGS84 y lo abre en Google Maps
-version=1.0
-author=Usuario QField
-qgisMinimumVersion=3.28
